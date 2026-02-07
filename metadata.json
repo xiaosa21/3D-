@@ -1,0 +1,7 @@
+{
+  "name": "AI Studio Photography Simulator",
+  "description": "A professional-grade photography simulator that maps 3D camera coordinates to Gemini AI for high-fidelity image generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
